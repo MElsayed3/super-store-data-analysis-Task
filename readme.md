@@ -49,4 +49,4 @@ A formal report, titled "Data Analysis Report for the Year 2017," is also includ
 
 ## 6. ScreenShots
 ### DashBoard
-![DashBoard Screenshot](Screenshots/dashboard.JPG)
+![DashBoard Screenshot](screenshots/dashboard.JPG)
